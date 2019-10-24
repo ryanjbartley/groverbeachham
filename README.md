@@ -1,3 +1,7 @@
+#Half Assed Marketing
+
+If you're familiar with the work of Ryan Bartley, and were sent here, you probably know that this is a placeholder while he works to develop additional resources. If you have any questions, you can message the Business Page on Facebook, or, if you're a friend, contact Ryan directly
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryanjbartley/groverbeachham/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
