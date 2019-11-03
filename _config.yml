@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   can message the Business Page on Facebook, or, if you're a friend,
   contact Ryan directly.
 baseurl: "/groverbeachham" # the subpath of your site, e.g. /blog
+facebook_username: groverbeachham
+show_excerpts: true
 
 # Build settings
 theme: minima
